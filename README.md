@@ -37,5 +37,5 @@ We welcome contributions from the community. Feel free to contribute by submitti
 
 ## License
 
-This project is licensed under the [your license here] License - see the [LICENSE](LICENSE) file for details.
+This code or materials used in the project are free to use. 
 
